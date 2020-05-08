@@ -221,10 +221,10 @@ namespace FeatureExtraction
                                 break;
                         }
 
-                        // export the modified image
-                        string filepath = "output" + ".jpg";
-                        Dlib.SaveJpeg(img, filepath);
-                        temp++;
+                        //// export the modified image
+                        //string filepath = "output" + ".jpg";
+                        //Dlib.SaveJpeg(img, filepath);
+                        //temp++;
                     }
                 }//
             }
